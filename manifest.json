@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "VDQ",
+  "description": "Videos Done Quick",
+  "version": "0.1",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "hello_extensions.png"
+  },
+  "host_permissions": [
+    "https://*.sejong.ac.kr/*"
+  ]
+}
